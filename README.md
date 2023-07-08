@@ -1,6 +1,6 @@
 # 🎧Apple AirPods Pro Animation
 
-#### 🔗 [Click here]([https://your-demo-link.com](https://akashb2003.github.io/airpods-animaiton.github.io/))
+#### 🔗 <a href="https://akashb2003.github.io/airpods-animaiton.github.io/" >Click here</a>
 
 ## Technologies Used
 
